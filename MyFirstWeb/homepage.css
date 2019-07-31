@@ -1,0 +1,23 @@
+header
+{
+    background-color: aqua;
+}
+
+.mybody{
+    float: left;
+}
+.leftbody{
+    background-color: blueviolet;
+}
+.rightbody{
+    background-color: brown;
+}
+.middlebody{
+background-color: aquamarine;
+}
+
+footer
+{
+    background-color: springgreen;
+}
+
